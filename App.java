@@ -18,7 +18,7 @@ public class App {
             names[i] = input.nextLine();
         }
 
-        System.out.println("The names that you entenreda are: ");
+        System.out.println("The names that you entrada are: ");
         for(int i =0 ; i < 5 ; i++){
             System.out.print(names[i] + " ");
         }
